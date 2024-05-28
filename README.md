@@ -1,6 +1,6 @@
 # Hi there, I'm Kristiyan! 👋
-## I'm a passionate Software Engineering student and enthusiast. I'm currently seeking a software development internship to apply and enhance my skills.
-### 🌱 Based in Varna
+## I'm a dedicated Software Engineering student and enthusiast. I'm currently seeking a software development internship to apply and enhance my skills.
+### 🌱 Based in Varna, Bulgaria
 ### ⚡ Softuni C# student
 ### 🔭 Studying Mathematics, Informatics and Information Technologies
 ### 🔧 Technical skills: C#, MS SQL, HTML & CSS, JavaScript, Entity Framework Core, HTTP, Node.js
