@@ -1,10 +1,10 @@
-## Hi there, I'm Kristiyan! 👋
-# I'm a passionate Software Engineering student and enthusiast. I'm currently seeking a software development internship to apply and enhance my skills.
-# 🌱 Based in Varna
-# ⚡ Softuni C# student
-# 🔭 Studying Mathematics, Informatics and Information Technologies
-# 🔧 Technical skills: C#, MS SQL, HTML & CSS, JavaScript, Entity Framework Core, HTTP, Node.js
-# 🔧 Soft skills: Adaptability, Teamwork, Problem-Solving, Initiative
+# Hi there, I'm Kristiyan! 👋
+## I'm a passionate Software Engineering student and enthusiast. I'm currently seeking a software development internship to apply and enhance my skills.
+### 🌱 Based in Varna
+### ⚡ Softuni C# student
+### 🔭 Studying Mathematics, Informatics and Information Technologies
+### 🔧 Technical skills: C#, MS SQL, HTML & CSS, JavaScript, Entity Framework Core, HTTP, Node.js
+### 🔧 Soft skills: Adaptability, Teamwork, Problem-Solving, Initiative
 ## 🎓 Education: 
 ### Softuni professional Software Engineering program with direction C# Web Developer in which I have successfully passed the courses: Programming Basics with C#, Programming Fundamentals with C#, C# Advanced, C# OOP, MS SQL, Entity Framework Core, HTML & CSS, JS Front-End
 ### High School of Mathematics "Dr Petar Beron" in a class with specialized training in Informatics, Information Technologies and Mathematics
