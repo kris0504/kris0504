@@ -9,15 +9,14 @@
 ### Softuni professional Software Engineering program with direction C# Web Developer in which I have successfully passed the courses: Programming Basics with C#, Programming Fundamentals with C#, C# Advanced, C# OOP, MS SQL, Entity Framework Core, HTML & CSS, JS Front-End
 ### High School of Mathematics "Dr Petar Beron" in a class with specialized training in Informatics, Information Technologies and Mathematics
 ## 📜 Certificates: 
-![basics](https://github.com/kris0504/kris0504/assets/133402897/95c22955-dacc-47a8-8fc1-cd24a6a06ab7)
-![fundamentals](https://github.com/kris0504/kris0504/assets/133402897/13021251-1cf0-4792-847c-656d6486f3bc)
-![advanced](https://github.com/kris0504/kris0504/assets/133402897/ec355075-c384-4b15-a92a-a6ccab15a739)
-![oop](https://github.com/kris0504/kris0504/assets/133402897/35bdb3db-c046-49f7-822e-8560f3fe1ffe)
-![sql](https://github.com/kris0504/kris0504/assets/133402897/38f8216c-0034-45ce-afbe-58ef8d9e73c5)
-![EFC](https://github.com/kris0504/kris0504/assets/133402897/516a2d90-2e4b-4068-9b5d-bb5dbe737149)
-![HTML CSS](https://github.com/kris0504/kris0504/assets/133402897/89c9e5e9-9e40-4dd6-8e1f-3a4f108e0ada)
-[JS Front-End - February 2024 - Certificate.pdf](https://github.com/kris0504/kris0504/files/15485901/JS.Front-End.-.February.2024.-.Certificate.pdf)
-
+![Programming Basics - September 2022 - Certificate](https://github.com/kris0504/kris0504/assets/133402897/412253f2-557b-4d37-9669-c423c9547df0)
+![Programming Fundamentals with C# - January 2023 - Certificate](https://github.com/kris0504/kris0504/assets/133402897/66988464-c9ae-47f6-8b1e-7c145fc9c7fb)
+![C# Advanced - May 2023 - Certificate](https://github.com/kris0504/kris0504/assets/133402897/4dbc9e78-556b-4b70-b8c0-83e5a3a28373)
+![C# OOP - June 2023 - Certificate](https://github.com/kris0504/kris0504/assets/133402897/e1032cc0-2c21-4f13-bed8-cc8890d7b9f9)
+![MS SQL - September 2023 - Certificate](https://github.com/kris0504/kris0504/assets/133402897/6c6e8fed-f5f7-4d6c-bedd-e262542c4723)
+![Entity Framework Core - October 2023 - Certificate](https://github.com/kris0504/kris0504/assets/133402897/7c7646a9-95f0-470c-ba9e-e8083b06c9bc)
+![HTML   CSS - January 2024 - Certificate](https://github.com/kris0504/kris0504/assets/133402897/204a469a-ba3e-479a-bfbc-5130ec8ddb87)
+![JS Front-End - February 2024 - Certificate](https://github.com/kris0504/kris0504/assets/133402897/a44defa4-af61-4790-a205-6432fe26acfc)
 
 
 
