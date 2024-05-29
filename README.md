@@ -16,7 +16,8 @@
 ![sql](https://github.com/kris0504/kris0504/assets/133402897/38f8216c-0034-45ce-afbe-58ef8d9e73c5)
 ![EFC](https://github.com/kris0504/kris0504/assets/133402897/516a2d90-2e4b-4068-9b5d-bb5dbe737149)
 ![HTML CSS](https://github.com/kris0504/kris0504/assets/133402897/89c9e5e9-9e40-4dd6-8e1f-3a4f108e0ada)
-![JS](https://github.com/kris0504/kris0504/assets/133402897/46cc9ba5-99c3-43c4-aea8-5e7e675e6a3b)
+[JS Front-End - February 2024 - Certificate.pdf](https://github.com/kris0504/kris0504/files/15485901/JS.Front-End.-.February.2024.-.Certificate.pdf)
+
 
 
 
